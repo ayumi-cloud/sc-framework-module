@@ -1,4 +1,4 @@
-### About developer module releases
+### About framework module releases
 
 The code is currently being held and developed in a private repo and not yet released for public testing.
 
